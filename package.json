@@ -1,0 +1,34 @@
+{
+  "name": "create-lpre-electron-gadget",
+  "author": {
+    "name": "lpre-ys",
+    "url": "https://github.com/lpre-ys"
+  },
+  "version": "0.1.0",
+  "description": "Scaffold a small Electron gadget app with Vite + Vue.",
+  "type": "module",
+  "bin": {
+    "create-lpre-electron-gadget": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "template",
+    "README.md"
+  ],
+  "keywords": [
+    "create",
+    "electron",
+    "vite",
+    "vue",
+    "scaffold"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lpre-ys/create-lpre-electron-gadget"
+  },
+  "bugs": {
+    "url": "https://github.com/lpre-ys/create-lpre-electron-gadget/issues"
+  },
+  "homepage": "https://github.com/lpre-ys/create-lpre-electron-gadget#readme"
+}
